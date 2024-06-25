@@ -26,7 +26,7 @@ fetch_data()
 - Returns a list of tuples, each containing lists of channel numbers, current (I) numbers, and voltage (V) numbers.
 - Later will be replaced with actual data retrieval logic
 
-##Updates made
+## Updates made
 - Added logic to handle navigation beyond the initial set of matrix displays (self.max_pages)
 - Fetches new data and dynamically adds new MatrixDisplay instances when the Next button is clicked.
 - Compatibility between the RasberryPI (haven't been tested)
