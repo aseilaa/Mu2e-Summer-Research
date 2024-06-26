@@ -24,14 +24,14 @@ QPushButton
 fetch_data()
 - Simulates data retrieval.
 - Returns a list of tuples, each containing lists of channel numbers, current (I) numbers, and voltage (V) numbers.
-- Later will be replaced with actual data retrieval logic
+- Later will be replaced with actual data 
 
 ## Updates made
 - Added logic to handle navigation beyond the initial set of matrix displays (self.max_pages)
-- Fetches new data and dynamically adds new MatrixDisplay instances when the Next button is clicked.
+- Fetches new data and adds new MatrixDisplay instances when the Next button is clicked.
 - Compatibility between the RasberryPI (haven't been tested)
 
 ## What's next?
 - Real-time data ?? I am not sure if we need this
 - Aesthetics?
-- ??
+- Try to replace the data with the real data (already implemented), but I want to see if it works
