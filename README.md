@@ -32,6 +32,5 @@ fetch_data()
 - Compatibility between the RasberryPI (haven't been tested)
 
 ## What's next?
-- Real-time data ?? I am not sure if we need this
-- Aesthetics?
+- Real-time data 
 - Try to replace the data with the real data (already implemented), but I want to see if it works
