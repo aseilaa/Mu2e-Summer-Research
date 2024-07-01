@@ -1,4 +1,4 @@
-## GUI for Mu2e
+## GUI for Mu2e Project
 PyQt5 creates a graphical user interface (GUI) for displaying matrix data. 
 It features a main window (MainWindow) with navigation controls to switch between different matrix displays (MatrixDisplay).
 
